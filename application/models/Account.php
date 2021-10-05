@@ -217,7 +217,7 @@ class Account extends Model {
 				$mail->Host = 'ssl://smtp.yandex.ru';
 				$mail->Port = 465;
 				$mail->Username = 'arinochkamalina@yandex.ru';
-				$mail->Password = '=-0987654321';
+				$mail->Password = '*********';
 				*/
 				// От кого
 				$mail->setFrom('report@investfotnite.ru', 'investfotnite.ru');	
